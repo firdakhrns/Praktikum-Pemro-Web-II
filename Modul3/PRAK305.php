@@ -18,7 +18,7 @@
         $i = 0;
         while ($i < $panjang) {
             $karakter = $teks[$i];
-            echo strtoupper($karakter); // huruf pertama
+            echo strtoupper($karakter); 
             $j = 1;
             while ($j < $panjang) {
                 echo strtolower($karakter);
