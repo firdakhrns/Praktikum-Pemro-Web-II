@@ -15,7 +15,7 @@ class MahasiswaModel extends Model
             'skill' => ['Paper Folding Craft', 'English (Reading & Listening)', 'Reading Comprehension'],
             'quote' => 'Start loving yourself, then you’ll realize how much you truly deserve.',
             'makanan_favorit' => 'Mie ayam, Es kelapa, Ice cream',
-            'film_favorit' => 'The Prisonner of Beauty',
+            'film_favorit' => 'The Prisioner of Beauty',
             'instagram' => '@firdakhrns.25',
             'gambar' => 'firda.jpg'
         ];
